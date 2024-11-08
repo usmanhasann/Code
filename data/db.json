@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Basics To Advanced In React",
+      "overview": "Basics To Advanced In React offers a comprehensive dive into React, covering everything from fundamentals to advanced concepts.",
+      "long_description": "Basics To Advanced In React is designed to take you from the basics of components and state management to advanced techniques like hooks, context API, and performance optimization. This course is ideal for anyone looking to become proficient in React, providing hands-on projects to build real-world applications. Each module deepens your understanding, preparing you for modern React development. Get ready to transform your skills with this step-by-step guide to mastering one of the most popular frontend frameworks today!",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Django Framework for Beginners",
+      "overview": "Django Framework for Beginners is a thorough introduction to Django, teaching you how to build scalable web applications with this powerful framework.",
+      "long_description": "Django Framework for Beginners offers an in-depth approach to learning Django, covering everything from basic setup and models to building a fully-functional web app. You’ll learn how to implement databases, work with views and templates, and set up authentication. This course empowers beginners to build and deploy powerful web applications with Django. Step into the world of backend development and master the fundamentals of this powerful framework.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "The Future of Design Systems",
+      "overview": "The Future of Design Systems explores the latest trends and best practices in building scalable and sustainable design systems.",
+      "long_description": "The Future of Design Systems dives into cutting-edge practices for creating scalable, cohesive design systems. Learn how to establish a design language, manage components, and ensure consistency across teams and projects. This course covers tools, automation, and principles that keep design systems modern and efficient. Perfect for designers and developers, this course will help you stay at the forefront of design system innovation.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "The Complete Guide to Backend Development provides an in-depth look at backend programming, covering databases, APIs, and server-side technologies.",
+      "long_description": "The Complete Guide to Backend Development is a robust course that covers the essentials of backend programming. From databases and APIs to server management, this course prepares you for building and managing complex applications. Gain expertise in essential backend technologies, scalability, and security. Ideal for those looking to deepen their technical skills, this guide provides a well-rounded understanding of server-side development.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Build a Blockchain from Scratch in Go",
+      "overview": "Build a Blockchain from Scratch in Go teaches you how to develop a fully functional blockchain using the Go programming language.",
+      "long_description": "Build a Blockchain from Scratch in Go is a hands-on course that guides you through the basics of blockchain technology and how to implement it in Go. This course covers consensus algorithms, cryptographic hashing, and creating a decentralized network. Perfect for developers interested in blockchain or Go, this project-based course offers a comprehensive understanding of decentralized technology.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    }
+    ,
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "Frontend Fastlane Plan With Projects is designed to help you advance quickly in frontend development by building real-world projects.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Master the Code Review",
+      "overview": "Master the Code Review equips you with essential skills for effectively reviewing and improving code.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "Deep Dive Into Design Thinking",
+      "overview": "Deep Dive Into Design Thinking is a thorough exploration of the principles and practices behind design thinking in product design.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1632585223080-254c4b2c6d44?ixid=MnwzNjZ8fGVufDB8fGJ1dGFzX3BvcnRhdG9yX3BhY2thZ2V8MnxodHRwczovL3d3dy5mYWNlYm9vay5jb20vbWVkaW9yX3RydWNrcy9sZGVhZGVyL2ZlYWtpbmcuYXR0YWNobWVudF8wMjhfZGVzaWduLnJlc3BvbnNlcy5zZWFyY2hmb3JtZXhldmFsbWVtYmVy&ixlib=rb-1.2.1&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "React for Beginners",
+      "overview": "React for Beginners is a step-by-step guide to mastering React, providing a solid foundation for new developers.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1620677751374-b17848c4b803?ixid=MnwzNjZ8fGVufDB8fGJ1dGFzX3BvcnRhdG9yX3BhY2thZ2V8MnxodHRwczovL3d3dy5mYWNlYm9vay5jb20vbWVkaW9yX3RydWNrcy9sZGVhZGVyL2ZlYWtpbmcuYXR0YWNobWVudF8wMjhfZGVzaWduLnJlc3BvbnNlcy5zZWFyY2hmb3JtZXhldmFsbWVtYmVy&ixlib=rb-1.2.1&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "JavaScript Algorithms and Data Structures",
+      "overview": "JavaScript Algorithms and Data Structures provides a hands-on approach to mastering key algorithms and data structures in JavaScript.",
+      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1633212253195-f1ea6074e8f2?ixid=MnwzNjZ8fGVufDB8fGJ1dGFzX3BvcnRhdG9yX3BhY2thZ2V8MnxodHRwczovL3d3dy5mYWNlYm9vay5jb20vbWVkaW9yX3RydWNrcy9sZGVhZGVyL2ZlYWtpbmcuYXR0YWNobWVudF8wMjhfZGVzaWduLnJlc3BvbnNlcy5zZWFyY2hmb3JtZXhldmFsbWVtYmVy&ixlib=rb-1.2.1&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 4,
+      "best_seller": false
+    }
+
+,
+{
+  "id": 10011,
+  "name": "Web Development Foundation",
+  "overview": "Web Development Foundation: Learn the essential skills required to build and maintain websites, from front-end basics to back-end practices.",
+  "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+  "price": 29,
+  "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+  "image_local": "/assets/images/10011.avif",
+  "rating": 5,
+  "in_stock": true,
+  "size": 3,
+  "best_seller": true
+},
+{
+  "id": 10012,
+  "name": "Mastering Git and GitHub - A Practical Guide",
+  "overview": "Mastering Git and GitHub: Gain in-depth knowledge and hands-on experience with Git and GitHub to streamline your version control and collaboration processes.",
+  "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+  "price": 9,
+  "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+  "image_local": "/assets/images/10012.avif",
+  "rating": 5,
+  "in_stock": true,
+  "size": 1,
+  "best_seller": false
+},
+{
+  "id": 10013,
+  "name": "Everything About React v16",
+  "overview": "Everything About React v16: Dive deep into React v16's features and best practices to effectively build dynamic and high-performing web applications.",
+  "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+  "price": 19,
+  "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+  "image_local": "/assets/images/10013.avif",
+  "rating": 4,
+  "in_stock": false,
+  "size": 3,
+  "best_seller": false
+},
+{
+  "id": 10014,
+  "name": "Diving Deep With Python 2.7",
+  "overview": "Diving Deep With Python 2.7: Explore the fundamentals of Python 2.7 while uncovering advanced concepts for efficient programming and problem-solving.",
+  "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+  "price": 19,
+  "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+  "image_local": "/assets/images/10014.avif",
+  "rating": 4,
+  "in_stock": false,
+  "size": 3,
+  "best_seller": false
+},
+{
+  "id": 10015,
+  "name": "Kickstart Your UI Design Career",
+  "overview": "Kickstart Your UI Design Career: Build a solid foundation in UI design, focusing on industry practices and principles to create stunning, user-centered designs.",
+  "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+  "price": 9,
+  "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+  "image_local": "/assets/images/10015.avif",
+  "rating": 2,
+  "in_stock": false,
+  "size": 1,
+  "best_seller": false
+}
+    ],
+    "featured_products": [
+      {
+        "id": 10004,
+        "name": "The Complete Guide to Backend Development",
+        "overview": "The Complete Guide to Backend Development is a comprehensive course that dives deep into the essential concepts and skills needed to excel in backend programming. It covers everything from database management to server-side scripting and APIs.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 99,
+        "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10004.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 7,
+        "best_seller": true
+      },
+      {
+        "id": 10006,
+        "name": "Frontend Fastlane Plan With Projects",
+        "overview": "Frontend Fastlane Plan With Projects is designed to accelerate your skills in frontend development, giving you hands-on experience through practical projects. You'll learn key frontend technologies while building real-world applications.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 99,
+        "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10006.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 10,
+        "best_seller": false
+      },
+      {
+        "id": 10008,
+        "name": "JavaScript Basics To Advance With Osman",
+        "overview": "JavaScript Basics To Advance With Osman is a course that takes you on a journey from the fundamentals to advanced JavaScript concepts. Learn to create dynamic, interactive web applications with a deep understanding of JavaScript.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 29,
+        "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10008.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      }
+      
+    ],
+    "orders": [
+    ],
+    "users": [
+    ]
+}
+  
