@@ -1,12 +1,14 @@
 import { useEffect, useState } from "react";
+import { useParams } from "react-router-dom";
 
 //cuz we are fetching the individual product or the id which is in the object format
 export const ProductDetail = () => {
   const [data, SetData] = useState({});
+  const { id } = useParams();
   useEffect(() => {
     async function fetchdata() {
       try {
-        const response = await fetch("http://localhost:8000/products/10001");
+        const response = await fetch(`http://localhost:8000/products/${id}`);
         const pdata = await response.json();
         SetData(pdata);
       } catch (error) {
@@ -14,7 +16,7 @@ export const ProductDetail = () => {
       }
     }
     fetchdata();
-  }, []);
+  }, [id]);
 
   return (
     <main>
@@ -35,13 +37,7 @@ export const ProductDetail = () => {
               <span className=""> {data.price}</span>
             </p>
             <p className="my-3">
-              <span>
-                <i className="text-lg bi bi-star-fill text-yellow-500 mr-1"></i>
-                <i className="text-lg bi bi-star-fill text-yellow-500 mr-1"></i>
-                <i className="text-lg bi bi-star-fill text-yellow-500 mr-1"></i>
-                <i className="text-lg bi bi-star-fill text-yellow-500 mr-1"></i>
-                <i className="text-lg bi bi-star text-yellow-500 mr-1"></i>
-              </span>
+              <span></span>
             </p>
             <p className="my-4 select-none">
               {data.best_seller && (

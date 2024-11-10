@@ -1,0 +1,63 @@
+warning: in the working copy of 'data/db.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/Elements/Rating.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/index.js', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/data/db.json b/data/db.json[m
+[1mindex 5ac4da4..eb3839e 100644[m
+[1m--- a/data/db.json[m
+[1m+++ b/data/db.json[m
+[36m@@ -203,7 +203,7 @@[m
+       {[m
+         "id": 10004,[m
+         "name": "The Complete Guide to Backend Development",[m
+[31m-        "overview": "The Complete Guide to Backend Development is a comprehensive course that dives deep into the essential concepts and skills needed to excel in backend programming. It covers everything from database management to server-side scripting and APIs.",[m
+[32m+[m[32m        "overview": "The Complete Guide to Backend Development is a comprehensive course that dives deep into the essential concepts and skills needed to excel in backend programming.",[m
+         "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",[m
+         "price": 99,[m
+         "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",[m
+[36m@@ -216,8 +216,8 @@[m
+       {[m
+         "id": 10006,[m
+         "name": "Frontend Fastlane Plan With Projects",[m
+[31m-        "overview": "Frontend Fastlane Plan With Projects is designed to accelerate your skills in frontend development, giving you hands-on experience through practical projects. You'll learn key frontend technologies while building real-world applications.",[m
+[31m-        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",[m
+[32m+[m[32m        "overview": "Frontend Fastlane Plan With Projects is designed to accelerate your skills in frontend development, giving you hands-on experience through practical projects.",[m
+[32m+[m[32m        "long_description": "Lorem sasipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",[m
+         "price": 99,[m
+         "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",[m
+         "image_local": "/assets/images/10006.avif",[m
+[36m@@ -229,7 +229,7 @@[m
+       {[m
+         "id": 10008,[m
+         "name": "JavaScript Basics To Advance With Osman",[m
+[31m-        "overview": "JavaScript Basics To Advance With Osman is a course that takes you on a journey from the fundamentals to advanced JavaScript concepts. Learn to create dynamic, interactive web applications with a deep understanding of JavaScript.",[m
+[32m+[m[32m        "overview": "JavaScript Basics To Advance With Osman is a course that takes you on a journey from the fundamentals to advanced JavaScript concepts.",[m
+         "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",[m
+         "price": 29,[m
+         "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",[m
+[1mdiff --git a/src/components/Elements/Rating.js b/src/components/Elements/Rating.js[m
+[1mindex aa7f9b9..64001af 100644[m
+[1m--- a/src/components/Elements/Rating.js[m
+[1m+++ b/src/components/Elements/Rating.js[m
+[36m@@ -1,6 +1,6 @@[m
+ import React from "react";[m
+ [m
+[31m-const Rating = ({ rating }) => {[m
+[32m+[m[32mexport const Rating = ({ rating }) => {[m
+   //create an   array with 5 stars and false position[m
+   let ratingArray = Array(5).fill(false);[m
+   //*it will check ( i < rating)that the no of star coming is less than the initial value[m
+[36m@@ -29,5 +29,3 @@[m [mconst Rating = ({ rating }) => {[m
+     </>[m
+   );[m
+ };[m
+[31m-[m
+[31m-export default Rating;[m
+[1mdiff --git a/src/pages/index.js b/src/pages/index.js[m
+[1mindex 5d189f3..3947a21 100644[m
+[1m--- a/src/pages/index.js[m
+[1m+++ b/src/pages/index.js[m
+[36m@@ -2,3 +2,4 @@[m [mexport { HomePage } from "./Home/HomePage";[m
+ export { ProductsList } from "./Products/ProductsList";[m
+ // export { ProductCard } from "../components/Elements/ProductCard";[m
+ export { ProductDetail } from "./ProductDetail";[m
+[32m+[m[32mexport { Rating } from "../components/Elements/Rating";[m
